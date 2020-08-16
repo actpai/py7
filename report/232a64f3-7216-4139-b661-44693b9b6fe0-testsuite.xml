@@ -1,0 +1,80 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1597585375660" stop="1597585379314">
+  <name>script</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1597585375660" status="passed" stop="1597585376120">
+      <name>test_pb_em_qy_aritcle.TestPbEmQyAritcle.test_mp_login</name>
+      <attachments>
+        <attachment source="dd1077df-7e67-401d-80dd-9ac483b66a17-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2284-MainThread"/>
+        <label name="host" value="DESKTOP-T5DMR30"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1597585376157" status="passed" stop="1597585376759">
+      <name>test_pb_em_qy_aritcle.TestPbEmQyAritcle.test_pb_aritcle[\u957f\u5f97\u597d\u770b\u7684\u4eba\u5c31\u662f\u4f1a\u8bf4\u8bdd-{}-\u957f\u5f97\u597d\u770b\u7684\u4eba\u5c31\u662f\u4f1a\u8bf4\u8bdd-{}-1-201-OK]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2284-MainThread"/>
+        <label name="host" value="DESKTOP-T5DMR30"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1597585376798" status="passed" stop="1597585377234">
+      <name>test_pb_em_qy_aritcle.TestPbEmQyAritcle.test_mis_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2284-MainThread"/>
+        <label name="host" value="DESKTOP-T5DMR30"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1597585377271" status="passed" stop="1597585377913">
+      <name>test_pb_em_qy_aritcle.TestPbEmQyAritcle.test_qy_article</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2284-MainThread"/>
+        <label name="host" value="DESKTOP-T5DMR30"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1597585377957" status="passed" stop="1597585378309">
+      <name>test_pb_em_qy_aritcle.TestPbEmQyAritcle.test_app_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2284-MainThread"/>
+        <label name="host" value="DESKTOP-T5DMR30"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1597585378360" status="passed" stop="1597585379314">
+      <name>test_pb_em_qy_aritcle.TestPbEmQyAritcle.test_qy_al_by_cl</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2284-MainThread"/>
+        <label name="host" value="DESKTOP-T5DMR30"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
